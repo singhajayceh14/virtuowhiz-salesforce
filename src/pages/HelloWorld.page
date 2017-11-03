@@ -1,0 +1,10 @@
+<apex:page >
+    <h1>
+        Hello World
+    </h1>
+    <apex:pageBlock title="A Block Title">
+        <apex:pageBlockSection title="A Block Section">
+        Hello There
+        </apex:pageBlockSection>
+    </apex:pageBlock>   
+</apex:page>

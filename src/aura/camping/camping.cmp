@@ -1,0 +1,4 @@
+<aura:component >
+    <c:campingHeader msg="Hello Test List"/>
+    <c:campingList />
+</aura:component>

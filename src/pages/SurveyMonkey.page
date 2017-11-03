@@ -1,0 +1,6 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <script>(function(e,t,n,c){var o,s,r;e.SMCX=e.SMCX||[],t.getElementById(c)||(o=t.getElementsByTagName(n),s=o[o.length-1],r=t.createElement(n),r.type="text/javascript",r.async=!0,r.id=c,r.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/k3vbLK_2BG_2B3wM6vbEwIiMyCwzkPmrOLGE1TcrqmZdG7CQ_2BYnVKkFeMqCD6QhnbUbM.js"].join(""),s.parentNode.insertBefore(r,s))})(window,document,"script","smcx-sdk");</script><a style="font: 12px Helvetica, sans-serif; color: #999; text-decoration: none;" href="https://www.surveymonkey.com"> Create your survey with SurveyMonkey </a>
+  <!--<apex:iframe src="https://www.surveymonkey.com/r/7DPVBFB" scrolling="true" id="theIframe"/> -->
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

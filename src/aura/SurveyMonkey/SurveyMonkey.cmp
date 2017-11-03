@@ -1,0 +1,6 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+  <div>
+    <iframe url="https://www.surveymonkey.com/r/D25SKB9" scrolling="NO" width="100%" height="600px" frameBorder="0"/>
+      <lightning:container src="https://www.surveymonkey.com/r/D25SKB9"/>
+  </div>
+</aura:component>
